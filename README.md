@@ -4,7 +4,7 @@ I am an empirical researcher specializing in **Labor Economics**, the **Economic
 
 Currently, I am a **Research Associate** at the Institute for Research on Labor and Employment (IRLE) working with Professor Steven Raphael, and a **Pre-doctoral Research Fellow** at the Democracy Policy Lab (DPL) working with Professor Jacob Grumbach at UC Berkeley. I hold a B.A. in Economics from UC Berkeley.
 
-**Website:** [michaelgarciaecon.github.io](https://michaelgarciaecon.github.io) | **Email:** [mgarcia182@berkeley.edu](mailto:mgarcia182@berkeley.edu) | (626) 559-3032 | [Download Academic CV](https://github.io)
+**Website:** [michaelgarciaecon.github.io](https://michaelgarciaecon.github.io) | **Email:** [mgarcia182@berkeley.edu](mailto:mgarcia182@berkeley.edu) | (626) 559-3032 | [Download Academic CV](https://github.io/your-cv.pdf)
 
 ---
 
@@ -12,7 +12,7 @@ Currently, I am a **Research Associate** at the Institute for Research on Labor 
 
 #### Submitted & Under Review
 *   **"The Hungry Mind of United States Youth: How Universal Free Meals Narrow Student Achievement Gaps"**  
-    *Submitted – Economics of Education Journal* 
+    *Submitted – Economics of Education Journal* | [SSRN Abstract](http://ssrn.com/abstract=6690049)
 
 #### Selected Work in Progress
 *   **"The Effects of Declining Incarceration Rates on the Socioeconomic Outcomes of High-Risk People"**  
