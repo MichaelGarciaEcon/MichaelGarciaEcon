@@ -2,7 +2,7 @@
 
 I am an empirical researcher specializing in **Labor Economics**, the **Economics of Crime and Corrections**, the **Economics of Education**, and **Racial/Socioeconomic Inequality**. 
 
-Currently, I am a **Research Associate** at the Institute for Research on Labor and Employment (IRLE) working with Professor Steven Raphael, and a **Pre-doctoral Research Fellow** at the Democracy Policy Lab (DPL) working with Professor Jacob Grumbach at UC Berkeley. I hold a B.A. in Economics from UC Berkeley.
+I concurrently work as a **Research Associate** with the Institute for Research on Labor and Employment (IRLE) under the supervision of Professor Steven Raphael, and participate as a **Pre-doctoral Research Fellow** at the Democracy Policy Lab (DPL) working with Professor Jacob Grumbach at UC Berkeley. I hold a B.A. in Economics from UC Berkeley.
 
 **Website:** [michaelgarciaecon.github.io](https://michaelgarciaecon.github.io) | **Email:** [mgarcia182@berkeley.edu](mailto:mgarcia182@berkeley.edu) | (626) 559-3032 | [Download Academic CV](https://github.io/your-cv.pdf)
 
